@@ -20,7 +20,7 @@ provisioner "file" {
   }
 
     provisioner "file" {
-    source      = "apps/app1"
+    source      = "apps/apps1"
     destination = "/tmp"
   }
 
